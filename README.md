@@ -20,12 +20,13 @@ You'll need these dependencies:
 * [ ] Introduction to cells, the notebook, keyboard shortcuts, etc... (Kyle)
   * [ ] Rip and merge content from IPython in-depth and examples. (Kyle)
 * [ ] ...
-* [ ] Light data set
-  * [ ] Parse the data set using Pandas.
-  * [ ] Import interesting into numpy.
-  * [ ] Use numpy to calculate something.
-  * [ ] Maybe interact?
-  * [ ] Render the results using Matplotlib.
+* [ ] Light data set (Jon)
+  * [ ] Parse the data set using Pandas. (Jon)
+  * [ ] Import interesting into numpy. (Jon)
+  * [ ] Use numpy to calculate something. (Jon)
+  * [ ] Maybe interact? (Jon)
+  * [ ] Render the results using Matplotlib. (Jon)
+ * [ ] Export using "download as...". (Jon)
 
 ## TODO
 
