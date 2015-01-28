@@ -17,9 +17,15 @@ You'll need these dependencies:
 ## Talk Outline
 
 * [ ] Install the dependencies (Kyle)
-* [ ] Introduction to cells, the notebook
+* [ ] Introduction to cells, the notebook, keyboard shortcuts, etc... (Kyle)
+  * [ ] Rip and merge content from IPython in-depth and examples. (Kyle)
 * [ ] ...
 * [ ] Light data set
+  * [ ] Parse the data set using Pandas.
+  * [ ] Import interesting into numpy.
+  * [ ] Use numpy to calculate something.
+  * [ ] Maybe interact?
+  * [ ] Render the results using Matplotlib.
 
 ## TODO
 
