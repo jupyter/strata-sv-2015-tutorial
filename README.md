@@ -13,22 +13,30 @@ You'll need these dependencies:
 * numpy
 * pandas
 * matplotlib
+* scipy
 
 ## Talk Outline
 
-* [ ] Install the dependencies (Kyle)
-* [ ] Introduction to cells, the notebook, keyboard shortcuts, etc... (Kyle)
-  * [ ] Rip and merge content from IPython in-depth and examples. (Kyle)
-* [ ] ...
-* [ ] Light data set (Jon)
-  * [ ] Parse the data set using Pandas. (Jon)
-  * [ ] Import interesting into numpy. (Jon)
-  * [ ] Use numpy to calculate something. (Jon)
-  * [ ] Maybe interact? (Jon)
-  * [ ] Render the results using Matplotlib. (Jon)
- * [ ] Export using "download as...". (Jon)
+Kyle is responsible for the rough draft of:
+- [ ] overview of notebook install 
+- [ ] what is a notebook
+- [ ] notebook basics (modes, hotkeys, cell types, magic functions, etc)
+- [ ] output & rich output basics
 
-## TODO
+Jon is responsible for the rough draft of:
+- [ ] parsing data using pandas
+- [ ] form pandas to numpy
+- [ ] using numpy
+- [ ] rendering numpy results with matplotlib
+- [ ] using interact
+- [ ] exporting using the download as button
+- [x] rental heatmap example
+
+Time fillers:
+- [ ] show nbviewer
+- [ ] show tmpnb
+
+## Additional TODO
 
 * [X] Provide installation instructions
 * [ ] Provide content as a release on GitHub for people to download
